@@ -1,8 +1,8 @@
 /*
-› Create By Dio
-› Base Ori Dio
+› Create By Haikal
+› Base Ori Haikal
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : DIO MODS WA */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : JANSEN MODS */
 
 require('./hwkal')
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@adiwajshing/baileys")
@@ -68,7 +68,7 @@ async function startHaikal() {
 const haikal = makeWASocket({
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Haikal Multi Device','Safari','1.0.0'],
+browser: ['Jansen Multi Device','Safari','1.0.0'],
 auth: state})
 //=================================================//
 store.bind(haikal.ev)
@@ -162,12 +162,12 @@ mentions: [num],
 fileName: `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© 寒 𝐃𝐢𝐨 𝐖𝐚𝐬 𝐊𝐢𝐧𝐠 ⚡︎ ⚡︎`,
+footer: `© JANSEN MODS`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE DIO MODS WA`,
+body: `SUBSCRIBE JANSEN MODS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -189,12 +189,12 @@ mentions: [num],
 fileName: `SELAMAT TINGGAL 👋 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© HW MODS WA`,
+footer: `© JANSEN MODS`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE DIO MODS WA`,
+body: `SUBSCRIBE JANSEN MODS`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,

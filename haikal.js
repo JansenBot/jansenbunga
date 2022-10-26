@@ -4098,38 +4098,45 @@ case 'menu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
-
-[ 🇲🇨 Ini adalah Bot Pribadi  Dari Indonesia 👋 ]
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-*MENU*
-┏━━⊱
-┣❏➥ bugmenu
-┣❏➥ scraperimage
-┣❏➥ asupanmata
-┣❏➥ scrapconvert
-┣❏➥ randomsound
-┣❏➥ nsfw
-┣❏➥ soundbot
-┣❏➥ funnmenu
-┣❏➥ primbonmenu
-┣❏➥ islamiyah
-┣❏➥ voicechanger
-┣❏➥ beritanews
-┣❏➥ cmdmenu
-┣❏➥ searchmenu
-┣❏➥ groupmenu
-┣❏➥ downloadmenu
-┣❏➥ ownermenu
-┗━━⊱
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
+◎ Terbit : MASA PENJAJAHAN
+┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈
+▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈
+▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈
+┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈
+┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈
+┈┈▕╲▂┊╰━━┻━╱┈┈┈
+┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈
+╭━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━╮
+┃╭─────────⩵꙰ཱི࿐
+┃╰─ ⏤͟͟͞MENU NYA ─➤ ↶↷
+╰━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━͙✩̣̣̣̣
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 ALL MENU 〙
+┣❏➥ BUGMENU
+┣❏➥ SCRAPERIMAGE
+┣❏➥ ASUPANMATA
+┣❏➥ SCRAPCONVERT
+┣❏➥ RANDOMSOUND
+┣❏➥ NSFW
+┣❏➥ SOUNDBOT
+┣❏➥ FUNNMENU
+┣❏➥ PRIMBONMENU
+┣❏➥ ISLAMIYAH
+┣❏➥ VOICECHANGER
+┣❏➥ BERITANEWS
+┣❏➥ CMDMENU
+┣❏➥ SEARCHMENU
+┣❏➥ GROUPMENU
+┣❏➥ DOWNLOADMENU
+┣❏➥ OWNERMENU
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 *NOTE*
-🌷
-contact me Wa.me/6285714170944
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-Base Script
-©Jansen`, contextInfo:{"externalAdReply": {"title": `SC JANSEN MODS`,"body": `Selamat ${salam} kak ${pushname}`,
+🛡
+contact me Wa.me/6281364399250
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+
+© ⏤͟͟͞  𝐉𝚫𝐍𝐒𝚵𝐍 𝐌𝚫𝐊𝚵𝐑`, contextInfo:{"externalAdReply": {"title": `SC JANSEN MODS`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: `https://youtube.com/channel/UCir7aW7p5MIZSjiCi00L7Ig`,
@@ -4145,102 +4152,118 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
-◎ Terbit : *01-09-1999*
+◎ Terbit : MASA PENJAJAHAN
+┈╱▔╲▂╱╱╱╱▂╱▔╲┈┈
+▕▔╲┈╱▔╲┈┈╱╲╱▔▏┈
+▕▏┈▏╱▉╲┈┈╱▉╲▕▏┈
+┈╲▃▏▔▔▔╲▂▂▂▕╱┈┈
+┈┈┈▏┊┊┳┊╲▂╱┳▏┈┈
+┈┈▕╲▂┊╰━━┻━╱┈┈┈
+┈┈╱┈┈▔▔╲▂▂╱╲┈┈┈
+╭━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━╮
+┃╭─────────⩵꙰ཱི࿐
+┃╰─ ⏤͟͟͞BUG NYA ─➤ ↶↷
+╰━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━͙✩̣̣̣̣
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘  SPESIAL BUG  〙
+│➳ afk { kasih reactions }
+│➳ bugghoib [ on / off ]
+│➳ jagoanom [ reply target ]
+│➳ bugsange [ Harus Menjadi Admin ]
+│➳ bugtiktok [ Link ] - Bug Sw
+│➳ jadikatalog [ reply sticker ] jumlah
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 ATTACK TARGET 〙
+│➳ ampas1 628xxx
+│➳ santetdia 628xxx|10|10s
+│➳ catalogpc 628xxx|10|10s 
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•› 〘 ATTACK GROUP 〙
+│⚠️ Ketik > m.chat ( di group dulu🌷)
+│➳ ampas2 112674448xxx
+│➳ santetgc  1237891xxxx|10|10s
+│➳ cataloggc 1237891xxxx|10|10s 
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 VIRTEX SPAM 〙
+│➳ virtext1 [ jumlah ]
+│➳ virtext2 [ jumlah ]
+│➳ virtext3 [ jumlah ]
+│➳ virtext4 [ jumlah ]
+│➳ virtext5 [ jumlah ]
+│➳ virtext6 [ jumlah ]
+│➳ virtext7 [ jumlah ]
+│➳ virtext8 [ jumlah ]
+│➳ virtext9 [ jumlah ]
+│➳ virtext10 [ jumlah ] 
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 BUG SPAM 〙
+│➳ 🌷 [ jumlah ]
+│➳ bugstik [ jumlah ]
+│➳ bugie [ jumlah ]
+│➳ buglokas [ jumlah ]
+│➳ bugtod [ jumlah ]
+│➳ bugbokep [ jumlah ]
+│➳ buginvite [ jumlah ] Pc
+│➳ ha [ jumlah ]
+│➳ hi [ jumlah ]
+│➳ hu [ jumlah ]
+│➳ he [ jumlah ]
+│➳ ba [ jumlah ]
+│➳ be [ jumlah ]
+│➳ bu [ jumlah ]
+│➳ bi [ jumlah ]
+│➳ ca [ jumlah ]
+│➳ ci [ jumlah ]
+│➳ cu [ jumlah ]
+│➳ co [ jumlah ]
+│➳ bug1 [ jumlah ]
+│➳ bug2 [ jumlah ]
+│➳ bug3 [ jumlah ]
+│➳ bug4 [ jumlah ]
+│➳ bug5 [ jumlah ]
+│➳ bug6 [ jumlah ]
+│➳ bug7 [ jumlah ]
+│➳ poll [ jumlah ]
+│➳ bugtag [ jumlah ]
+│➳ inibug [ jumlah ]
+│➳ buttonampas [ jumlah ]
+│➳ hiya [ jumlah ]
+│➳ lokas [ jumlah ]
+│➳ catalog [ jumlah ]
+│➳ docu [ jumlah ]
+│➳ daca [ jumlah ]
+│➳ duc [ jumlah ]
+│➳ ducu [ jumlah ]
+│➳ troli [ jumlah ]
+│➳ troli2 [ jumlah ]
+│➳ spam [ Reply Pesan ]
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 JADI BUG 〙
+│➳ jadibug1 [ Video Jadi Audio ]
+│➳ jadibug2 [ Video Jadi Mp3 ]
+│➳ jadibug3 [ Audio Jadi Vn ]
+│➳ jadibug4 [ Sticker Jadi Gambar ]
+│➳ jadibug5 [ Gambar Jadi Once ] 
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+╭━━•›〘 BUG BROADCAST 〙
+│➳ bugbcimage [ Bug image ]
+│➳ bugbcvideo [ Bug Video ]
+│➳ bugbc audio [ Bug Audio ]
+│➳ bugbctext [ Bug Text ]
+╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
+*NOTE*
+🛡
+contact me Wa.me/6281364399250
+ ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-° SPESIAL BUG *
-
-afk { kasih reactions }
-bugghoib [ on / off ]
-jagoanom [ reply target ]
-bugsange [ Harus Menjadi Admin ]
-bugtiktok [ Link ] - Bug Sw
-jadikatalog [ reply sticker ] jumlah
-
-° OTW TARGET °
-
-🔥 628xxx|5|5
-ampas1 628xxx
-santetdia 628xxx@s.whatsapp.net|10|10s
-catalogpc 628xxx@s.whatsapp.net|10|10s
-
-° OTW GROUP °
-
-Ketik > m.chat ( di group dulu🌷)
-
-ampas2 112674448xxx
-santetgc  1237891xxxx@g.us|10|10s
-cataloggc 1237891xxxx@g.us|10|10s
-
-° Virtext Spam °
-
-virtext1 [ jumlah ]
-virtext2 [ jumlah ]
-virtext3 [ jumlah ]
-virtext4 [ jumlah ]
-virtext5 [ jumlah ]
-virtext6 [ jumlah ]
-virtext7 [ jumlah ]
-virtext8 [ jumlah ]
-virtext9 [ jumlah ]
-virtext10 [ jumlah ]
-
-° Bug Spam °
-
-🌷 [ jumlah ]
-bugstik [ jumlah ]
-bugie [ jumlah ]
-buglokas [ jumlah ]
-bugtod [ jumlah ]
-bugbokep [ jumlah ]
-buginvite [ jumlah ] Pc
-ha [ jumlah ]
-hi [ jumlah ]
-hu [ jumlah ]
-he [ jumlah ]
-ba [ jumlah ]
-be [ jumlah ]
-bu [ jumlah ]
-bi [ jumlah ]
-ca [ jumlah ]
-ci [ jumlah ]
-cu [ jumlah ]
-co [ jumlah ]
-bug1 [ jumlah ]
-bug2 [ jumlah ]
-bug3 [ jumlah ]
-bug4 [ jumlah ]
-bug5 [ jumlah ]
-bug6 [ jumlah ]
-bug7 [ jumlah ]
-poll [ jumlah ]
-bugtag [ jumlah ]
-inibug [ jumlah ]
-buttonampas [ jumlah ]
-hiya [ jumlah ]
-lokas [ jumlah ]
-catalog [ jumlah ]
-docu [ jumlah ]
-daca [ jumlah ]
-duc [ jumlah ]
-ducu [ jumlah ]
-troli [ jumlah ]
-troli2 [ jumlah ]
-spam [ Reply Pesan ]
-
-° Jadi Bug °
-
-jadibug1 [ Reply Video Jadi Bug Audio ]
-jadibug2 [ Reply Video Jadi Bug Mp3 ]
-jadibug3 [ Reply Audio Jadi Bug Vn ]
-jadibug4 [ Reply Sticker Jadi Bug Gambar ]
-jadibug5 [ Reply Gambar Jadi Bug Once ] 
-
-° Bug Broadcast °
-
-bugbcimage [ Bug image Broadcast ]
-bugbcvideo [ Bug Video Broadcas ]
-bugbc audio [ Bug Audio Broadcast ]
-bugbctext [ Bug Text Broadcast ]`,
+© ⏤͟͟͞  𝐉𝚫𝐍𝐒𝚵𝐍 𝐌𝚫𝐊𝚵𝐑`,
 contextInfo:{"externalAdReply": {"title": `SC JANSEN MODS`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,

@@ -4181,7 +4181,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `© Hay Kak ${pushname} �
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 ╭━━•› 〘 ATTACK GROUP 〙
-│⚠️ Ketik > m.chat ( di group dulu🌷)
+│⚠️ Ketik > m.chat (di group dulu)
 │➳ ampas2 112674448xxx
 │➳ santetgc  1237891xxxx|10|10s
 │➳ cataloggc 1237891xxxx|10|10s 

@@ -12,9 +12,9 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/@jansenmods"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/@jansenp1000=id"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 <h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
 </p>
@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Jansen
 </p>
 - Hello All 👋
 <br>
